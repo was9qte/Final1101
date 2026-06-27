@@ -1,0 +1,19 @@
+@model BookStore.Web.Models.Product
+
+@{
+    ViewBag.Title = "Заказ";
+}
+
+<h2>Товар добавлен в заказ</h2>
+
+<p>
+    Товар "<b>@Model.Name</b>"
+    стоимостью <b>@Model.Price</b>
+    добавлен в заказ.
+</p>
+
+<p>
+    <a href="/Product/Index">
+        Вернуться к списку товаров
+    </a>
+</p>
