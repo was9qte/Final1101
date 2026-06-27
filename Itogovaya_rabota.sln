@@ -14,11 +14,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README.md", "README.md", "{
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{4054D653-4AE0-4900-A993-B97A7BBA139E}"
 	ProjectSection(SolutionItems) = preProject
-		..\image.png = ..\image.png
-		..\step2.png = ..\step2.png
-		..\step3.png = ..\step3.png
+		..\Screenshots\step1.png = ..\Screenshots\step1.png
+		..\Screenshots\step2.png = ..\Screenshots\step2.png
+		..\Screenshots\step3.png = ..\Screenshots\step3.png
 	EndProjectSection
 EndProject
 Global
@@ -42,9 +42,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8} = {754FC069-D67B-A9D7-50A1-8D1CA196D8F1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6D9EB8E4-A41C-487F-9AB8-FBCC2672B2D6}
