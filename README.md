@@ -2,8 +2,8 @@
 
 # ЗАПУСК ПРОЕКТА ОЧЕНЬ ВАЖНО!!!
 ![Первый шаг](Screenshots/step1.png)
-![Первый шаг](Screenshots/step1.png)
-![Первый шаг](Screenshots/step1.png)
+![Первый шаг](Screenshots/step2.png)
+![Первый шаг](Screenshots/step3.png)
 
 ---
 
