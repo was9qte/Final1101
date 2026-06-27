@@ -1,9 +1,9 @@
 # Final1101
 
 # ЗАПУСК ПРОЕКТА ОЧЕНЬ ВАЖНО!!!
-![Первый шаг](Screenshots/step1.png
-![Первый шаг](Screenshots/step1.png
-![Первый шаг](Screenshots/step1.png
+![Первый шаг](Screenshots/step1.png)
+![Первый шаг](Screenshots/step1.png)
+![Первый шаг](Screenshots/step1.png)
 
 ---
 
