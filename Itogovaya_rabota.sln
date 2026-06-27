@@ -16,9 +16,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README.md", "README.md", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{4054D653-4AE0-4900-A993-B97A7BBA139E}"
 	ProjectSection(SolutionItems) = preProject
-		..\Screenshots\step1.png = ..\Screenshots\step1.png
-		..\Screenshots\step2.png = ..\Screenshots\step2.png
-		..\Screenshots\step3.png = ..\Screenshots\step3.png
+		Screenshots\step1.png = Screenshots\step1.png
+		Screenshots\step2.png = Screenshots\step2.png
+		Screenshots\step3.png = Screenshots\step3.png
 	EndProjectSection
 EndProject
 Global
